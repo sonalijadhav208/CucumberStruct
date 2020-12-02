@@ -3,6 +3,7 @@ package AmazonImplementation;
 import java.util.ArrayList;
 import java.util.List;
 
+//Sonali is doing implementation
 public class Product {
 	private String productName;
 	private int price;
